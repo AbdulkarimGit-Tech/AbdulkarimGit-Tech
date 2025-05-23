@@ -20,8 +20,8 @@
 - 🔌 **Hardware Expertise**: Siemens S7-1200/S7-300, Raspberry Pi 5 (OpenPLC), VFDs, Relays, Sensors, Actuators  
 - 📊 **HMI & SCADA**: WinCC (TIA), Factory I/O, Node-RED Dashboards, Web HMI  
 - 🔧 **Control Systems**: Industrial wiring, control panel design, safety circuit integration  
-- 📐 **CAD & Panel Design**: 2D/3D designs using FreeCAD, AutoCAD Electrical, DIN rail layout planning  
-- 🌍 **Integrations**: IoT, MQTT, Modbus TCP/RTU, OPC-UA for SCADA-cloud sync  
+- 📐 **CAD & Panel Design**: 2D/3D designs using FreeCAD, AutoCAD Electrical, DIN rail layout planning, Procreate, Qelectrotech
+- 🌍 **Integrations**: Ethernet/IP, Profinet, Modbus TCP/RTU
 - 🛠️ **Project Lifecycle**: Concept → Design → Simulation → Wiring → Programming → Commissioning
 
 ---
@@ -30,11 +30,11 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🧪 **Water Mixing Plant** | PLC automation with multi-tank level control, LED feedback | CODESYS, Pi 5, ST + LD |
-| 🔄 **VFD Speed Control** | Real-time analog feedback with ramp/safety interlocks | Siemens S7-1200 + VFD |
+| 🧪 **Raspberry PI 5 PLC** | PLC automation with Raspberrypi 5 and Codesys Runtime basic NO/NC switch control, LED feedback | CODESYS, Pi 5, ST + LD |
+<!--| 🔄 **VFD Speed Control** | Real-time analog feedback with ramp/safety interlocks | Siemens S7-1200 + VFD |
 | 🌐 **IoT Data Logger** | MQTT-based real-time SCADA integration | Raspberry Pi + Node-RED |
 | 🎛 **HMI Panel Design** | Interactive SCADA dashboards with alarms, logs | WinCC + Factory I/O |
-| ⚡ **Smart MCC Panel** | CAD design, PLC wiring, HMI layout & full automation | FreeCAD, TIA Portal |
+| ⚡ **Smart MCC Panel** | CAD design, PLC wiring, HMI layout & full automation | FreeCAD, TIA Portal | -->
 
 ---
 
@@ -56,12 +56,13 @@
 
 ### Control Panel & Electrical Design
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-2E3A59?style=flat&logo=freecad&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-111111?style=flat&logo=procreate&logoColor=white)
+![QElectroTech](https://img.shields.io/badge/QElectroTech-005F87?style=flat&logo=electrical-engineering&logoColor=white)
+<!-- ![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat&logo=autodesk&logoColor=white) -->
 
 ### DevOps & Cloud Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-![MQTT](https://img.shields.io/badge/MQTT-purple?style=flat)
 ![Modbus](https://img.shields.io/badge/Modbus-005f9e?style=flat)
 
 ---
@@ -83,10 +84,10 @@
 
 ## 💡 GitHub Repositories
 
-- [`Raspberry-Pi-PLC`](https://github.com/AbdulkarimGit-Tech/Raspberry-Pi-PLC) – Use Raspberry Pi as a soft-PLC with real I/O
-- [`Siemens-PLC-Labs`](https://github.com/AbdulkarimGit-Tech/Siemens-PLC-Labs) – Ladder logic programs, simulation setups, and practical labs
+- [`Raspberry-Pi-PLC`](https://github.com/AbdulkarimGit-Tech/Raspberry-Pi-PLC) – Use Raspberry Pi as a soft-PLC with real I/O using Codesys
+<!--- [`Siemens-PLC-Labs`](https://github.com/AbdulkarimGit-Tech/Siemens-PLC-Labs) – Ladder logic programs, simulation setups, and practical labs
 - [`HMI-Designs`](https://github.com/AbdulkarimGit-Tech/HMI-Designs) – HMI templates and responsive SCADA panels
-- [`Control-Panel-3D`](https://github.com/AbdulkarimGit-Tech/Control-Panel-3D) – FreeCAD-based control panel designs & terminal layout
+- [`Control-Panel-3D`](https://github.com/AbdulkarimGit-Tech/Control-Panel-3D) – FreeCAD-based control panel designs & terminal layout -->
 
 ---
 
